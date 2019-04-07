@@ -1,0 +1,95 @@
+body {
+    font-size: 20px;
+    font-weight:150px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShs_96WEKLeXhD6Kxmzt9YwuUWW47lVEwk1uiff9qms_ivRNyyEw);
+    background-repeat: no-repeat;
+    background-size: 800px;
+    background-position: 700px;
+
+
+
+
+}
+
+h1 { 
+	color:green;
+	font-size: 100px;
+	letter-spacing:60px;
+	box-shadow: 2px 2px 3px grey;
+
+
+}
+
+h2	{
+	color:green;
+    box-shadow: 3px 4px 3px grey;
+
+
+}
+
+a {
+   background:blue;
+   border-radius: 10px;
+   color:white;
+
+
+
+
+}
+
+a:hover {
+	color:red;
+
+}
+.btn-blue { 
+	color:white;
+	background:black;
+	border-radius:20px;
+	padding:5px;
+
+}
+.btn-blue:hover {
+	background:blue;
+	color:black;
+
+}
+p {
+   font-size: 10px,
+
+
+
+}
+
+div {
+	
+	border: 2px black;
+    
+
+
+
+
+
+}
+
+.img-circle {
+	border-radius: 50px;
+
+
+}
+ 
+ .card-white {
+ 	text-align: center;
+ 	box-shadow:0 10px;
+
+}
+
+
+
+@media(max-width:700px) {
+	.container {
+         width: 600px;
+	}
+ 
+}
+
+
